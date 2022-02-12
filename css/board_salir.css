@@ -1,0 +1,16 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: #42b13e;
+    /* background: #f99; */
+}
+
+h1 {
+    text-align: center;
+    margin: 2rem;
+    color: #fff;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0, 0.46);
+}
+p {
+    color: #fff;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0, 0.46);
+}
